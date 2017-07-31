@@ -21,16 +21,3 @@ square.penup()
 square.goto(100,-200)
 
 
-UP = 0
-LEFT = 1
-DOWN = 2
-RIGHT = 3
-direction = UP
-UP_ARROW ="Up"
-LEFT_ARROW = "Left"
-DOWN_ARROW = "Down"
-RIGHT_ARROW = "Right"
-SPACEBR = "space"
-
-UP = 0
-direction = up
